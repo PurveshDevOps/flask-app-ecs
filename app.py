@@ -6,7 +6,6 @@ def hello_world():
 
     return 'Hello Dosto, This is Purvesh Shapariya, welcome to DevOps Zero To Hero (Junoon  Batch 9)'
     return 'Hello Dosto, welcome to DevOps Zero To Hero (Junoon  Batch 9)\nI’m Purvesh, an aspiring DevOps Engineer focused on optimizing workflows and delivering scalable solutions. Passionate about continuous improvement in IT.'
- (Added app.py file)
 
 @app.route('/health')
 def health():
